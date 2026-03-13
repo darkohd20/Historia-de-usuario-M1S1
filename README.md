@@ -1,4 +1,4 @@
-# Historia-de-usuario-M1S1
+# User-history-M1S1
 This program was created to practice user story M1S1, validating user input for a product name, price, and quantity, then calculating and displaying the total cost.
 What does it do?
 The program asks the user to enter a product name, a unit price, and a quantity. It validates that:
